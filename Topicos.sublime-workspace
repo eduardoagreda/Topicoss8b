@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"json",
+				"json_encode"
+			],
+			[
 				"arra",
 				"array	$… = array (…)"
 			],
@@ -83,7 +87,7 @@
 			"file": "routes/web.php",
 			"settings":
 			{
-				"buffer_size": 2704,
+				"buffer_size": 2842,
 				"line_ending": "Unix"
 			}
 		},
@@ -91,15 +95,7 @@
 			"file": "app/Http/Controllers/UsuariosControlador.php",
 			"settings":
 			{
-				"buffer_size": 1514,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/usuarios/todos.blade.php",
-			"settings":
-			{
-				"buffer_size": 2199,
+				"buffer_size": 2300,
 				"line_ending": "Unix"
 			}
 		},
@@ -112,10 +108,18 @@
 			}
 		},
 		{
+			"file": "resources/views/usuarios/todos.blade.php",
+			"settings":
+			{
+				"buffer_size": 2495,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "public/funciones.js",
 			"settings":
 			{
-				"buffer_size": 614,
+				"buffer_size": 1798,
 				"line_ending": "Unix"
 			}
 		},
@@ -131,7 +135,7 @@
 			"file": "resources/views/plantilla/origen.blade.php",
 			"settings":
 			{
-				"buffer_size": 1427,
+				"buffer_size": 1165,
 				"line_ending": "Unix"
 			}
 		}
@@ -517,7 +521,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -525,15 +529,15 @@
 					"file": "routes/web.php",
 					"settings":
 					{
-						"buffer_size": 2704,
+						"buffer_size": 2842,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2371,
-								2371
+								2648,
+								2648
 							]
 						],
 						"settings":
@@ -544,7 +548,7 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 728.0,
+						"translation.y": 1528.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -554,15 +558,15 @@
 					"file": "app/Http/Controllers/UsuariosControlador.php",
 					"settings":
 					{
-						"buffer_size": 1514,
+						"buffer_size": 2300,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								767,
-								786
+								2073,
+								2080
 							]
 						],
 						"settings":
@@ -574,43 +578,13 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 465.0,
+						"translation.y": 1498.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "resources/views/usuarios/todos.blade.php",
-					"settings":
-					{
-						"buffer_size": 2199,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								265,
-								265
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "resources/views/error.blade.php",
 					"settings":
 					{
@@ -640,19 +614,50 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "public/funciones.js",
+					"buffer": 3,
+					"file": "resources/views/usuarios/todos.blade.php",
 					"settings":
 					{
-						"buffer_size": 614,
+						"buffer_size": 2495,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								301,
-								301
+								2455,
+								2461
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1588.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/funciones.js",
+					"settings":
+					{
+						"buffer_size": 1798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
 							]
 						],
 						"settings":
@@ -664,7 +669,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 440.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -703,15 +708,15 @@
 					"file": "resources/views/plantilla/origen.blade.php",
 					"settings":
 					{
-						"buffer_size": 1427,
+						"buffer_size": 1165,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								40,
-								40
+								213,
+								213
 							]
 						],
 						"settings":
@@ -722,7 +727,7 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 157.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -794,6 +799,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 335.0,
+	"side_bar_width": 189.0,
 	"status_bar_visible": true
 }
